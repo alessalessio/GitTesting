@@ -23,6 +23,6 @@ namespace ConsoleApp1
             }
         }
 
-        private string  hotfix2;
+        
     }
 }
