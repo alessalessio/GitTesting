@@ -24,5 +24,15 @@ namespace ConsoleApp1
         }
 
         
+
+        private string _iss53;
+
+        public string Iss53
+        {
+            get
+            {
+                return _iss53;
+            }
+        }
     }
 }
