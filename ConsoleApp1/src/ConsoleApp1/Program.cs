@@ -15,16 +15,6 @@ namespace ConsoleApp1
             //comment 4            
         }
 
-        private string hotfix
-        {
-            get
-            {
-                return "done";
-            }
-        }
-
-        
-
         private string _iss53;
 
         public string Iss53
@@ -34,5 +24,15 @@ namespace ConsoleApp1
                 return _iss53;
             }
         }
+
+        private string hotfix
+        {
+            get
+            {
+                return "done";
+            }
+        }
+
+        
     }
 }
