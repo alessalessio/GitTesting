@@ -14,5 +14,15 @@ namespace ConsoleApp1
             
             //comment 4            
         }
+
+        private string hotfix
+        {
+            get
+            {
+                return "done";
+            }
+        }
+
+        private string  hotfix2;
     }
 }
