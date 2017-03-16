@@ -14,5 +14,8 @@ namespace ConsoleApp1
             
             //comment 4            
         }
+
+        private string iss53;
+
     }
 }
