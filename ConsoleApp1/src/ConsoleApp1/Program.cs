@@ -10,6 +10,7 @@ namespace ConsoleApp1
         public static void Main(string[] args)
         {
             // comment
+            //comment 2
         }
     }
 }
